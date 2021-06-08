@@ -1,6 +1,8 @@
  # Project Scope
  Integrating TensorFlow’s pose estimation model with tensorflow-ue4 plugin and AR core from Unreal, with all custom implementation
  
+ <img src="https://www.tensorflow.org/images/lite/models/pose_estimation.gif" alt="pose estimation gif" width="250"/>
+
  # Current Limitations and Reasons for Custom Implementation
  - No object detection / body tracking with Google AR Core for Android and IOS
  - Tensorflow-ue4 plugin set for TensorFlow 1.12 not TensorFlow 2.5, thus incorrect API calls
